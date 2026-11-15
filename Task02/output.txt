@@ -1,0 +1,17 @@
+ONLINE EXAM PORTAL
+==================
+
+Test 1: Valid Submission
+Saved answer01.pdf
+
+Test 2: Large Answer File
+Error: Could not store answer02.pdf
+Cause: Disk quota exceeded
+
+Test 3: Exam Closed
+Error: Exam submission is closed
+
+Test 4: Course Not Registered
+Error: Student is not registered for this course
+
+TESTING COMPLETED

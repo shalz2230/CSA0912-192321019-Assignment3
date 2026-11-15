@@ -1,0 +1,11 @@
+ATM FAILURE HANDLING SYSTEM
+============================
+Card Reader: CARD_READER_READY
+Enter Account Number: Enter Withdrawal Amount: 
+Transaction Successful!
+Account Number: 123456
+Amount Withdrawn: Rs.2000.0
+Remaining Balance: Rs.8000.0
+Please Collect Your Cash.
+
+ATM Session Completed.

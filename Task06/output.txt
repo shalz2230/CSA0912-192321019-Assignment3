@@ -1,0 +1,12 @@
+DEADLOCK PREVENTION
+===================
+Transferred Rs.500 successfully.
+Transferred Rs.1000 successfully.
+Wallet 1 Balance: Rs.4500
+Wallet 2 Balance: Rs.3500
+
+PRODUCER-CONSUMER TOKEN COUNTER
+===============================
+Sum of tokens collected: 210 (expected 210)
+
+TESTING COMPLETED

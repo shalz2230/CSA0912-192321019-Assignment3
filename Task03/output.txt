@@ -1,0 +1,18 @@
+DAILY SALES REPORT GENERATOR
+============================
+
+MANUAL RESOURCE HANDLING
+Processed: store1.txt
+Processed: store2.txt
+Processed: store3.txt
+Manual Total Sales: Rs.6000
+
+TRY-WITH-RESOURCES HANDLING
+Processed: store1.txt
+Processed: store2.txt
+Processed: store3.txt
+Try-with-resources Total Sales: Rs.6000
+
+Report generated successfully.
+
+TESTING COMPLETED

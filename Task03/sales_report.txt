@@ -1,0 +1,6 @@
+DAILY SALES REPORT
+==================
+Store 1 Sales: Rs.1000
+Store 2 Sales: Rs.2000
+Store 3 Sales: Rs.3000
+Total Sales: Rs.6000

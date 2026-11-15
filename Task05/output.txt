@@ -1,0 +1,18 @@
+CINEMA SEAT BOOKING SYSTEM
+=========================
+
+Running 100 users for 10 seats.
+
+UNSYNCHRONIZED
+Seats Sold: 10
+Execution Time: 35.381405 ms
+
+SYNCHRONIZED METHOD
+Seats Sold: 10
+Execution Time: 60.661591 ms
+
+SYNCHRONIZED BLOCK
+Seats Sold: 10
+Execution Time: 26.055713 ms
+
+TESTING COMPLETED

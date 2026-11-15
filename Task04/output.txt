@@ -1,0 +1,38 @@
+PARALLEL ANSWER SCRIPT SCANNING
+================================
+
+Starting Scanner Stations
+Station 4 started scanning.
+Station 1 started scanning.
+Station 1 Alive: true
+Station 2 started scanning.
+Station 3 started scanning.
+Station 3 scanned script 1
+Station 4 scanned script 1
+Station 2 scanned script 1
+Station 1 scanned script 1
+Runnable Scanner Started.
+Runnable scanned script 1
+Runnable scanned script 2
+Station 3 scanned script 2
+Station 4 scanned script 2
+Station 2 scanned script 2
+Station 1 scanned script 2
+Runnable scanned script 3
+Station 3 scanned script 3
+Station 4 scanned script 3
+Station 2 scanned script 3
+Station 1 scanned script 3
+Runnable Scanner Completed.
+Station 3 completed scanning.
+Station 4 completed scanning.
+Station 2 completed scanning.
+Station 1 completed scanning.
+
+All Scanner Stations Completed.
+Station 1 Alive: false
+Station 2 Alive: false
+Station 3 Alive: false
+Station 4 Alive: false
+
+TESTING COMPLETED
